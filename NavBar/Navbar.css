@@ -81,7 +81,7 @@ nav {
   }
   
   .link a:hover {
-    color: #3685fb;
+    color: #747DEF;
   }
   
   /* Media queries for mobile responsiveness */
@@ -131,19 +131,19 @@ nav {
       }
   }
   .btn1{
-    border: 2px solid #3685fb;
+    border: 2px solid #747DEF;
     background-color: white;
     color: black;
     border-radius: 50px;
   }
   
   .btn1:hover{
-    background-color: #3685fb;
+    background-color: #747DEF;
     color: white;
   }
   
   .btn2{
-    border: 2px solid #3685fb;
+    border: 2px solid #747DEF;
     background-color: white;
     color: black;
     border-radius: 50px;
@@ -153,6 +153,12 @@ nav {
     justify-content: center;
     margin-top:3px;
   }
+  
+  .btn2:hover{
+    background-color: #747DEF;
+    color: white;
+  }
+
   
   .btn2:hover{
     background-color: #3685fb;
